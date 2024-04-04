@@ -24,10 +24,10 @@ class MyApp extends StatelessWidget {
             Icon(Icons.notification_add, color: Colors.white, size: 25),
           ],
           title: const Text(
-            'Opened Doors',
+            'Mashal',
             style: TextStyle(color: Colors.white),
           ),
-          backgroundColor: Colors.black,
+          backgroundColor: const Color(0xFF795548),
           centerTitle: true,
         ),
         body: Align(
@@ -35,14 +35,17 @@ class MyApp extends StatelessWidget {
             child: Container(
               alignment: Alignment.center,
               height: 200,
-              width: 200,
-              decoration:const BoxDecoration(
-                  color: Colors.black,
+              width: 150,
+              decoration: BoxDecoration(
+                  color: Colors.brown,
                   border: Border.symmetric(
-                      vertical:  BorderSide(color: Color(0xFFeeeeee), width: 60),
+                      vertical: const BorderSide(color: Colors.white, width: 40),
                       horizontal:
-                      BorderSide(color: Colors.black, width: 32))),
-
+                      BorderSide(color: Colors.brown.shade400, width: 25))),
+              child:const Text(
+                '🔥',
+                style: TextStyle(fontSize: 50, height: -5.0),
+              ),
             )),
       ),
     );

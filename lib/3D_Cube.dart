@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -24,26 +25,30 @@ class MyApp extends StatelessWidget {
             Icon(Icons.notification_add, color: Colors.white, size: 25),
           ],
           title: const Text(
-            'Opened Doors',
+            '3D Cube',
             style: TextStyle(color: Colors.white),
           ),
-          backgroundColor: Colors.black,
+          backgroundColor: const Color(0xFF4caf50),
           centerTitle: true,
         ),
         body: Align(
+          alignment: Alignment.center,
+          child: Container(
             alignment: Alignment.center,
-            child: Container(
-              alignment: Alignment.center,
-              height: 200,
-              width: 200,
-              decoration:const BoxDecoration(
-                  color: Colors.black,
-                  border: Border.symmetric(
-                      vertical:  BorderSide(color: Color(0xFFeeeeee), width: 60),
-                      horizontal:
-                      BorderSide(color: Colors.black, width: 32))),
+            height: 230,
+            width: 230,
+            decoration: BoxDecoration(
+                color: Colors.teal,
+                border: Border.symmetric(
+                  vertical:const BorderSide(color: Colors.teal, width: 45),
+                  horizontal: BorderSide(color: Colors.teal.shade400, width: 45),
 
-            )),
+
+                )),
+
+          ),
+
+        ),
       ),
     );
   }

@@ -24,26 +24,28 @@ class MyApp extends StatelessWidget {
             Icon(Icons.notification_add, color: Colors.white, size: 25),
           ],
           title: const Text(
-            'Opened Doors',
+            'Letter Cover',
             style: TextStyle(color: Colors.white),
           ),
-          backgroundColor: Colors.black,
+          backgroundColor: const Color(0xFF4caf50),
           centerTitle: true,
         ),
         body: Align(
+          alignment: Alignment.center,
+          child: Container(
             alignment: Alignment.center,
-            child: Container(
-              alignment: Alignment.center,
-              height: 200,
-              width: 200,
-              decoration:const BoxDecoration(
-                  color: Colors.black,
-                  border: Border.symmetric(
-                      vertical:  BorderSide(color: Color(0xFFeeeeee), width: 60),
-                      horizontal:
-                      BorderSide(color: Colors.black, width: 32))),
+            height: 250,
+            width: 250,
+            decoration: BoxDecoration(
+                color: Colors.green,
+                border: Border.symmetric(
+                  vertical: BorderSide(color: Colors.green,width: 100),
+                  horizontal: BorderSide(color: Colors.green.shade400,width: 100),
+                )
 
-            )),
+            ),
+          ),
+        ),
       ),
     );
   }
