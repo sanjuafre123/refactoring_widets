@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
             size: 25,
             color: Colors.white,
           ),
-          actions: const [
+          actions:  const [
             Icon(Icons.notification_add, color: Colors.white, size: 25),
           ],
           title: const Text(
