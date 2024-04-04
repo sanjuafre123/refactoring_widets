@@ -46,51 +46,5 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/5ab941eb-0c61-4c89-8a80-ff7649f96f3d" height ="550">
 </div>
 
-###
-
-<h3 align="center"> 4.second Task </h3>
-<h1 align="left"></h1>
-
-###
-<div align="center">
-
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/4aa4f102-174d-4c8c-a4b7-ccb97378ac34" height ="550">
-</div>
-
-<h3 align="center"> 5.second Task </h3>
-<h1 align="left"></h1>
-
-###
-<div align="center">
-
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/ecc08597-0f2f-4158-acc6-5997e71b7eb8" height ="550">
-</div>
-
-<h3 align="center"> 6.second Task </h3>
-<h1 align="left"></h1>
-
-###
-<div align="center">
-
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/065dde0d-038d-42d6-a348-4370fe01005b" height ="550">
-</div>
-
-<h3 align="center"> 7.second Task </h3>
-<h1 align="left"></h1>
-
-###
-<div align="center">
-
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/3374e262-d45a-45ba-9fef-ffb2d90b5973" height ="550">
-</div>
-
-<h3 align="center"> 8.second Task </h3>
-<h1 align="left"></h1>
-
-###
-<div align="center">
-
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/7161654f-d5d4-4738-81a7-23af7cdbf888" height ="550">
-</div>
 
 
