@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 ###
 <div align="center">
 
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/b4d25793-01df-42a0-b8a6-6c6a46e6ac3f" height ="550">
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/ebadab9a-5174-455e-a40b-cdbbcecf3631" height ="550">
 </div>
 
 ###
@@ -33,7 +33,7 @@ samples, guidance on mobile development, and a full API reference.
 ###
 <div align="center">
 
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/73d914ec-0ad4-404f-bce3-09d4e49eaef2" height ="550">
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/a1cc2d60-0ded-4ffa-8537-e7214662f926" height ="550">
 </div>
 
 ###
@@ -43,7 +43,12 @@ samples, guidance on mobile development, and a full API reference.
 ###
 <div align="center">
 
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/c063d39e-c683-4a0a-9a20-3704c172f141" height ="550">
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/5ab941eb-0c61-4c89-8a80-ff7649f96f3d" height ="550">
 </div>
 
 ###
+
+
+
+
+
