@@ -89,5 +89,45 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/4b3d4716-587e-4753-9327-e06f7de3a032" height ="550">
 </div>
 
+###
+<h3 align="center"> 8.Seventh Task </h3>
+<h1 align="left"></h1>
+
+###
+<div align="center">
+
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/8ae8d5d9-f47d-4fcc-8265-2d1b9a620186" height ="550">
+</div>
+
+###
+<h3 align="center"> 9.Seventh Task </h3>
+<h1 align="left"></h1>
+
+###
+<div align="center">
+
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/e32b5ddd-a7d1-40c5-accd-ccc3fcb311bf" height ="550">
+</div>
+
+###
+<h3 align="center"> 10.Seventh Task </h3>
+<h1 align="left"></h1>
+
+###
+<div align="center">
+
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/88ee8cdc-2154-4a25-b4d1-08559cd0e36c" height ="550">
+</div>
+
+###
+<h3 align="center"> 11.Seventh Task </h3>
+<h1 align="left"></h1>
+
+###
+<div align="center">
+
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/94e6dd38-b0ba-44f0-bde2-3a977e40cdec" height ="550">
+</div>
+
 
 
