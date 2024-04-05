@@ -48,7 +48,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ###
-<h3 align="center"> 4.third Task </h3>
+<h3 align="center"> 4.Fourth Task </h3>
 <h1 align="left"></h1>
 
 ###
@@ -59,7 +59,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ###
-<h3 align="center"> 5.third Task </h3>
+<h3 align="center"> 5.Fifth Task </h3>
 <h1 align="left"></h1>
 
 ###
@@ -70,7 +70,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ###
-<h3 align="center"> 6.third Task </h3>
+<h3 align="center"> 6.sixth Task </h3>
 <h1 align="left"></h1>
 
 ###
@@ -79,19 +79,8 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/c0c84bbd-dffa-473f-82f4-7ae5b9cf2865" height ="550">
 </div>
 
-
 ###
-<h3 align="center"> 7.third Task </h3>
-<h1 align="left"></h1>
-
-###
-<div align="center">
-
-  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/5ab941eb-0c61-4c89-8a80-ff7649f96f3d" height ="550">
-</div>
-
-###
-<h3 align="center"> 8.third Task </h3>
+<h3 align="center"> 7.Seventh Task </h3>
 <h1 align="left"></h1>
 
 ###
