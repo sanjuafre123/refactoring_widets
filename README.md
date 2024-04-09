@@ -90,7 +90,7 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 ###
-<h3 align="center"> 8.Seventh Task </h3>
+<h3 align="center"> 8.Eighth Task </h3>
 <h1 align="left"></h1>
 
 ###
@@ -100,7 +100,7 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 ###
-<h3 align="center"> 9.Seventh Task </h3>
+<h3 align="center"> 9.Ninth Task </h3>
 <h1 align="left"></h1>
 
 ###
@@ -110,7 +110,7 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 ###
-<h3 align="center"> 10.Seventh Task </h3>
+<h3 align="center"> 10.Tenth Task </h3>
 <h1 align="left"></h1>
 
 ###
@@ -120,7 +120,17 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 ###
-<h3 align="center"> 11.Seventh Task </h3>
+<h3 align="center"> 11.Eleventh Task </h3>
+<h1 align="left"></h1>
+
+###
+<div align="center">
+
+  <img src = "https://github.com/sanjuafre123/refactoring_widets/assets/148860124/94e6dd38-b0ba-44f0-bde2-3a977e40cdec" height ="550">
+</div>
+
+###
+<h3 align="center"> 12.Twelfth Task </h3>
 <h1 align="left"></h1>
 
 ###
